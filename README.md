@@ -3,6 +3,9 @@
     <img src="https://frappe.io/files/lms.png" alt="Frappe LMS" width="50px" height="50px">
   </a>
   <p align="center">Easy to use, open source, learning management system.</p>
+
+
+  <p align="center">易于使用、开源、学习管理系统。</p>
 </p>
 
 
@@ -38,6 +41,27 @@
 	<img width="830" alt="ss2" src="https://user-images.githubusercontent.com/31363128/210056097-36849182-6db0-43a2-8c62-5333cd2aedf4.png">
 	<img width="941" alt="ss3" src="https://user-images.githubusercontent.com/31363128/210056134-01a7c429-1ef4-434e-9d43-128dda35d7e5.png">
 </details>
+
+
+## 介绍
+
+Frappe LMS 是一个易于使用的开源学习管理系统。您可以使用它来创建和共享在线课程。该应用程序具有清晰的 UI，可帮助学生只专注于重要的事情，并有助于无干扰的学习。
+
+您可以通过简单的表单创建课程和课程。课程可以采用文本、视频、测验或所有这些的组合形式。您可以让学生参与测验，以帮助复习和测试所学的概念。课程教师和学生可以通过每节课的讨论部分相互联系，并解决疑问。
+
+## 特征
+创建在线课程。📚
+向课程添加详细说明和预览视频。🎬
+将视频、测验和作业添加到您的课程中，使其有趣且具有互动📝性
+每节课下方的讨论部分，教师和学生可以在其中相互交流。💬
+创建批次以根据课程对学生进行分组并跟踪他们的进度 🏛
+Statistics 仪表板，一目了然地提供所有重要数字。📈
+用户可以在其中发布和查找工作。💼
+包含每个人的个人资料页面👨 👩 👧 👦的 People 目录
+设置封面图片、个人资料照片、简短简历和其他专业信息。🦹🏼‍♀️
+优化可读性🤓的简单布局
+整体使用✨中的愉快用户体验
+技术栈
 
 Frappe LMS is an easy-to-use, open-source learning management system. You can use it to create and share online courses. The app has a clear UI that helps students focus only on what's important and assists in distraction-free learning.
 
